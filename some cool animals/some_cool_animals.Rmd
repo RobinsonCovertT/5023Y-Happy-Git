@@ -1,6 +1,7 @@
 ---
 title: "Some cool animal facts"
 author: "Philip Leftwich"
+author2: "Taytum Robinson-Covert"
 output: html_document
 ---
 
@@ -57,7 +58,11 @@ knitr::opts_chunk$set(echo = TRUE)
 - They are not endangered, just very elusive
 - Closely related to raccoons
 
-###
+#### Grogu
+
+
+![Photo: Grogu AKA The Child](Grogu.jpg)
+
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes
