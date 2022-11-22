@@ -62,7 +62,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ![Photo: Grogu AKA The Child](Grogu.jpg)
-
+ 
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes
