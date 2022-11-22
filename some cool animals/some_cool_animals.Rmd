@@ -62,7 +62,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ![Photo: Grogu AKA The Child](Grogu.jpg)
- 
+ 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 is the token in case i need it
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes
